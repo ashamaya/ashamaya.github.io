@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+}
+.pagewrapper{
+    width: 100%;
+    height: auto;
+    background-color:skyblue;
+
+}
+hr{
+    margin: 15px 0px;
+    border: 1px solid black;
+    overflow: hidden;
+}
+.table{
+    width: 100%;
+    height: auto;
+    float: left;
+    font-family: sans-serif;
+    background-color: skyblue;
+}
